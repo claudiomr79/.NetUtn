@@ -1,0 +1,14 @@
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\bin\Debug\AdivinaNumero.exe.config
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\bin\Debug\AdivinaNumero.exe
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\bin\Debug\AdivinaNumero.pdb
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\obj\Debug\AdivinaNumero.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\obj\Debug\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\obj\Debug\AdivinaNumero.exe
+C:\Users\claud\source\repos\AdivinaNumero\AdivinaNumero\obj\Debug\AdivinaNumero.pdb
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\bin\Debug\AdivinaNumero.exe.config
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\bin\Debug\AdivinaNumero.exe
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\bin\Debug\AdivinaNumero.pdb
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\obj\Debug\AdivinaNumero.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\obj\Debug\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\obj\Debug\AdivinaNumero.exe
+C:\Users\claud\source\repos\AdivinaNumero2\AdivinaNumero\obj\Debug\AdivinaNumero.pdb

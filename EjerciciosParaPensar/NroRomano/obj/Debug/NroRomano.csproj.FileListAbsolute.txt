@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\bin\Debug\NroRomano.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\bin\Debug\NroRomano.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\bin\Debug\NroRomano.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\obj\Debug\NroRomano.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\obj\Debug\NroRomano.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\obj\Debug\NroRomano.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\NroRomano\obj\Debug\NroRomano.csprojResolveAssemblyReference.cache

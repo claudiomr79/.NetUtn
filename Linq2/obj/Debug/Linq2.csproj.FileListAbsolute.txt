@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\Linq2\bin\Debug\Linq2.exe.config
+C:\Users\claud\source\repos\Linq2\bin\Debug\Linq2.exe
+C:\Users\claud\source\repos\Linq2\bin\Debug\Linq2.pdb
+C:\Users\claud\source\repos\Linq2\obj\Debug\Linq2.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\Linq2\obj\Debug\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Linq2\obj\Debug\Linq2.exe
+C:\Users\claud\source\repos\Linq2\obj\Debug\Linq2.pdb

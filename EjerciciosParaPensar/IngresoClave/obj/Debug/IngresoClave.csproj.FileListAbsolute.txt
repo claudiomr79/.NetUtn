@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\bin\Debug\IngresoClave.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\bin\Debug\IngresoClave.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\bin\Debug\IngresoClave.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\obj\Debug\IngresoClave.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\obj\Debug\IngresoClave.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\obj\Debug\IngresoClave.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\IngresoClave\obj\Debug\IngresoClave.csprojResolveAssemblyReference.cache

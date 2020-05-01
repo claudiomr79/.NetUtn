@@ -1,0 +1,14 @@
+C:\Users\claud\source\repos\Geometria\Geometria\bin\Debug\Geometria.dll
+C:\Users\claud\source\repos\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Users\claud\source\repos\Geometria\Geometria\obj\Debug\Geometria.csprojResolveAssemblyReference.cache
+C:\Users\claud\source\repos\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Geometria\Geometria\obj\Debug\Geometria.dll
+C:\Users\claud\source\repos\Geometria\Geometria\obj\Debug\Geometria.pdb
+C:\Net\Geometria\Geometria\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Net\Geometria\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Net\Geometria\Geometria\Geometria\obj\Debug\Geometria.dll
+C:\Net\Geometria\Geometria\Geometria\obj\Debug\Geometria.pdb
+C:\Net\Geometria\Geometria\Geometria\bin\Debug\Geometria.dll
+C:\Net\Geometria\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Net\Geometria\Geometria\Geometria\bin\Debug\Geometria.dll.CodeAnalysisLog.xml
+C:\Net\Geometria\Geometria\Geometria\bin\Debug\Geometria.dll.lastcodeanalysissucceeded

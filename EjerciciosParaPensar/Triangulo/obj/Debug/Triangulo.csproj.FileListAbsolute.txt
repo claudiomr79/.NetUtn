@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache

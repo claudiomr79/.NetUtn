@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\bin\Debug\PrimosGemelos.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\bin\Debug\PrimosGemelos.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\bin\Debug\PrimosGemelos.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\obj\Debug\PrimosGemelos.csprojResolveAssemblyReference.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\obj\Debug\PrimosGemelos.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\obj\Debug\PrimosGemelos.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\PrimosGemelos\obj\Debug\PrimosGemelos.pdb

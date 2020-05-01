@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache

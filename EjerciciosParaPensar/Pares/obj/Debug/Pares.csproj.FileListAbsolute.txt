@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\bin\Debug\Pares.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\bin\Debug\Pares.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\bin\Debug\Pares.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\obj\Debug\Pares.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\obj\Debug\Pares.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Pares\obj\Debug\Pares.csprojResolveAssemblyReference.cache

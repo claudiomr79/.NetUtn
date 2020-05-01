@@ -1,0 +1,4 @@
+C:\Users\claud\source\repos\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\myMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\myMLAppML.ConsoleApp.AssemblyInfo.cs

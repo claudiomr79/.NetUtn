@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\bin\Debug\EjSuma.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\bin\Debug\EjSuma.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\bin\Debug\EjSuma.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\obj\Debug\EjSuma.csprojResolveAssemblyReference.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\obj\Debug\EjSuma.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\obj\Debug\EjSuma.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\EjSuma\obj\Debug\EjSuma.pdb

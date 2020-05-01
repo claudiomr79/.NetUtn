@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\bin\Debug\Bisisesto.exe.config
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\bin\Debug\Bisisesto.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\bin\Debug\Bisisesto.pdb
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\obj\Debug\Bisisesto.csprojResolveAssemblyReference.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\obj\Debug\Bisisesto.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\obj\Debug\Bisisesto.exe
+C:\Users\claud\source\repos\EjerciciosParaPensar\Bisisesto\obj\Debug\Bisisesto.pdb

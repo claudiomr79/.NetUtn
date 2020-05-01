@@ -1,0 +1,7 @@
+C:\Users\claud\source\repos\Linq4\bin\Debug\Linq4.exe.config
+C:\Users\claud\source\repos\Linq4\bin\Debug\Linq4.exe
+C:\Users\claud\source\repos\Linq4\bin\Debug\Linq4.pdb
+C:\Users\claud\source\repos\Linq4\obj\Debug\Linq4.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\Linq4\obj\Debug\Linq4.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Linq4\obj\Debug\Linq4.exe
+C:\Users\claud\source\repos\Linq4\obj\Debug\Linq4.pdb
